@@ -10,6 +10,8 @@ Calculate the frequency of the symbols in the alphabet in the input file.
 Sort the alphabet in decreasing order based on the frequency of the symbols. If two or more symbols have the same frequency, I use the symbol's ASCII value to break the tie (the higher the value, the higher the priority).
 Assign a positive integer value (starting from 1) to the symbols in the sorted alphabet. 
 Print the codes of the symbols in the alphabet sorted in increasing order by their ASCII value.
+
+
 Example:
 STDIN input:
 aeiou 
